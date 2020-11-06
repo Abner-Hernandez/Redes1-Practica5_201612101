@@ -1,6 +1,10 @@
 
 # Configuraciones
 
+## Definición de las redes
+![Imagen](https://github.com/Abner-Hernandez/Redes1-Practica5_201612101/blob/main/img/red.PNG)
+
+
 ### Topología 1
 ![Imagen](https://github.com/Abner-Hernandez/Redes1-Practica5_201612101/blob/main/img/topologia1.PNG)
 
