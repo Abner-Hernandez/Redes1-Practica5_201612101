@@ -24,5 +24,5 @@
 ![Imagen](https://github.com/Abner-Hernandez/Redes1-Practica5_201612101/blob/main/pc2_nube.PNG)
 
 ## Captura de paquetes
-![Imagen](https://github.com/Abner-Hernandez/Redes1-Practica5_201612101/blob/main/captura paquetes.PNG)
+![Imagen](https://github.com/Abner-Hernandez/Redes1-Practica5_201612101/blob/main/captura_paquetes.PNG)
 
