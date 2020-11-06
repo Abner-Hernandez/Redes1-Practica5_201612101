@@ -18,6 +18,10 @@
 
 * Configurar el ruteo dinamico RIP para la comunicación de los routers a travez de la vpn
 
+![Imagen](https://github.com/Abner-Hernandez/Redes1-Practica5_201612101/blob/main/img/r2_rip.PNG)
+
+* Validando configuraciones RIP
+
 ![Imagen](https://github.com/Abner-Hernandez/Redes1-Practica5_201612101/blob/main/img/r2_rip_sh.PNG)
 
 ### Configuración pc 2
@@ -30,6 +34,10 @@
 * Configurar el ruteo dinamico RIP para la comunicación de los routers a travez de la vpn
 
 ![Imagen](https://github.com/Abner-Hernandez/Redes1-Practica5_201612101/blob/main/img/r2_rip.PNG)
+
+* Validando configuraciones RIP
+
+![Imagen](https://github.com/Abner-Hernandez/Redes1-Practica5_201612101/blob/main/img/r2_rip_sh.PNG)
 
 ## Captura de paquetes
 
