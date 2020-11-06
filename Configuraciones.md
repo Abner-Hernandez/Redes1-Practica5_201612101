@@ -21,8 +21,8 @@
 * Puerto Remoto: 30001
 * IP de la pc 1: 10.8.0.2
 
-![Imagen](https://github.com/Abner-Hernandez/Redes1-Practica5_201612101/blob/main/pc2_nube.PNG)
+![Imagen](https://github.com/Abner-Hernandez/Redes1-Practica5_201612101/blob/main/img/pc2_nube.PNG)
 
 ## Captura de paquetes
-![Imagen](https://github.com/Abner-Hernandez/Redes1-Practica5_201612101/blob/main/captura_paquetes.PNG)
+![Imagen](https://github.com/Abner-Hernandez/Redes1-Practica5_201612101/blob/main/img/captura_paquetes.PNG)
 
