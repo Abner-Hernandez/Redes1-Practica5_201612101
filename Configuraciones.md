@@ -2,14 +2,14 @@
 # Configuraciones
 
 ## Definición de las redes
-![Imagen](https://github.com/Abner-Hernandez/Redes1-Practica5_201612101/blob/main/img/red.PNG)
+![Imagen](img/red.PNG)
 
 
 ### Topología 1
-![Imagen](https://github.com/Abner-Hernandez/Redes1-Practica5_201612101/blob/main/img/topologia1.PNG)
+![Imagen](img/topologia1.PNG)
 
 ### Topología 2
-![Imagen](https://github.com/Abner-Hernandez/Redes1-Practica5_201612101/blob/main/img/topologia2.PNG)
+![Imagen](img/topologia2.PNG)
 
 ## Configuración VPN
 
@@ -18,38 +18,38 @@
 * Puerto Remoto: 50002
 * IP de la pc 2: 10.8.0.3
 
-![Imagen](https://github.com/Abner-Hernandez/Redes1-Practica5_201612101/blob/main/img/cloud.PNG)
+![Imagen](img/cloud.PNG)
 
 * Configurar el ruteo dinamico RIP para la comunicación de los routers a travez de la vpn
 
-![Imagen](https://github.com/Abner-Hernandez/Redes1-Practica5_201612101/blob/main/img/r2_rip.PNG)
+![Imagen](img/r2_rip.PNG)
 
 * Validando configuraciones RIP
 
-![Imagen](https://github.com/Abner-Hernandez/Redes1-Practica5_201612101/blob/main/img/r2_rip_sh.PNG)
+![Imagen](img/r2_rip_sh.PNG)
 
 ### Configuración pc 2
 * Puerto local: 50002
 * Puerto Remoto: 30001
 * IP de la pc 1: 10.8.0.2
 
-![Imagen](https://github.com/Abner-Hernandez/Redes1-Practica5_201612101/blob/main/img/pc2_nube.PNG)
+![Imagen](img/pc2_nube.PNG)
 
 * Configurar el ruteo dinamico RIP para la comunicación de los routers a travez de la vpn
 
-![Imagen](https://github.com/Abner-Hernandez/Redes1-Practica5_201612101/blob/main/img/r2_rip.PNG)
+![Imagen](img/r2_rip.PNG)
 
 * Validando configuraciones RIP
 
-![Imagen](https://github.com/Abner-Hernandez/Redes1-Practica5_201612101/blob/main/img/r2_rip_sh.PNG)
+![Imagen](img/r2_rip_sh.PNG)
 
 ## Captura de paquetes
 
 ### Captura de paquetes en pc1
-![Imagen](https://github.com/Abner-Hernandez/Redes1-Practica5_201612101/blob/main/img/captura_paquetes2.PNG)
+![Imagen](img/captura_paquetes2.PNG)
 
 ### Captura de paquetes en pc2
-![Imagen](https://github.com/Abner-Hernandez/Redes1-Practica5_201612101/blob/main/img/captura_paquetes.PNG)
+![Imagen](img/captura_paquetes.PNG)
 
 ## Cálculo de Subredes
 Para poder crear subredes óptimas para nuestra red se realizó uso de vlsm dado que contábamos con una red original con capacidad de 256 host y necesitábamos que fuese dividida en subredes que se ajustaran a cada departamento según su necesidad.
